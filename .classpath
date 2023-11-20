@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MacroP1/src"/>
+	<classpathentry kind="src" path="MacroP2/src"/>
+	<classpathentry kind="src" path="P1_ASM/src"/>
+	<classpathentry kind="src" path="P2_ASM/src"/>
+	<classpathentry kind="output" path="MacroP1/bin"/>
+</classpath>
